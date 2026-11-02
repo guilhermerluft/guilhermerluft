@@ -34,7 +34,7 @@ Alguns trabalhos comerciais são apresentados sem identificar clientes ou divulg
 | **Catálogo digital personalizado** | Experiência de catálogo e administração própria em WordPress e WooCommerce. | [Ver case](cases/catalogo-digital.md) |
 | **Portal editorial headless** | Portal React integrado a WordPress por API, com recursos de publicação de conteúdo. | [Ver case](cases/portal-editorial.md) |
 | **Plataforma de gestão de conteúdo** | Funcionalidades WordPress sob medida para administrar conteúdos, páginas e acessos. | [Ver case](cases/gestao-de-conteudo.md) |
-| **CidadeEmDia** | Aplicação full stack com React, ASP.NET Core, PostgreSQL e Docker. | [Ver case e código](cases/cidade-em-dia.md) |
+| **CidadeEmDia** | Aplicação full stack com React, ASP.NET Core, PostgreSQL e Docker. | [Ver case](cases/cidade-em-dia.md) |
 
 ## Tecnologias
 
