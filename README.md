@@ -53,8 +53,6 @@ Em uma **reunião privada e controlada**, posso apresentar demonstrações, arqu
 **Sites e CMS:** WordPress · Elementor · WooCommerce · PHP  
 **Dados e infraestrutura:** SQL Server · PostgreSQL · Docker · Git · Deploy
 
-<sub>Ícones de tecnologias utilizadas. Eles não representam percentuais de domínio ou tempo programado.</sub>
-
 ## Meu processo de trabalho
 
 **1. Entendimento:** alinhamos o objetivo, o público e as funcionalidades necessárias.  
