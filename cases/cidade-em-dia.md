@@ -2,7 +2,6 @@
 
 **Tipo:** aplicação web full stack  
 **Tecnologias:** React, TypeScript, ASP.NET Core 10, Entity Framework Core, PostgreSQL/PostGIS, Docker e Nginx  
-**Repositório público:** https://github.com/guilhermerluft/cidademdia
 
 ## Visão geral
 
@@ -21,6 +20,6 @@ Projeto de aplicação web construída do zero, com frontend separado da API, or
 
 ## Status
 
-O repositório demonstra a base técnica. Não são afirmadas funcionalidades de negócio concluídas, implantação em produção ou resultados comerciais não comprovados.
+O projeto demonstra a base técnica. Não são afirmadas funcionalidades de negócio concluídas, implantação em produção ou resultados comerciais não comprovados.
 
-[Ver código público](https://github.com/guilhermerluft/cidademdia) · [← Voltar aos projetos](../README.md)
+[← Voltar aos projetos](../README.md)
