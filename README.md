@@ -36,7 +36,11 @@ Alguns trabalhos comerciais são apresentados sem identificar clientes ou divulg
 | **Plataforma de gestão de conteúdo** | Funcionalidades WordPress sob medida para administrar conteúdos, páginas e acessos. |
 | **Aplicação full stack** | Projeto com React, ASP.NET Core, PostgreSQL e Docker. |
 
-*Mais detalhes dos projetos podem ser apresentados durante uma conversa, respeitando a confidencialidade de cada cliente.*
+### Privacidade e demonstrações
+
+Os **repositórios de código dos projetos apresentados neste perfil são mantidos privados** para preservar a propriedade intelectual e a confidencialidade das informações envolvidas.
+
+Em uma **reunião privada e controlada**, posso apresentar demonstrações, arquitetura e detalhes técnicos adicionais que não estão disponíveis publicamente, sempre respeitando as autorizações e os acordos de confidencialidade de cada projeto.
 
 ## Tecnologias
 
