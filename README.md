@@ -40,17 +40,16 @@ Alguns trabalhos comerciais são apresentados sem identificar clientes ou divulg
 
 ## Tecnologias
 
-**Backend e APIs**  
-`C#` · `.NET` · `ASP.NET Core` · `Java` · `Spring Boot` · `Node.js` · `REST`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring,nodejs,react,ts,js,wordpress,php,postgres,docker,git&amp;theme=dark&amp;perline=13" alt="Tecnologias: .NET, C#, Java, Spring, Node.js, React, TypeScript, JavaScript, WordPress, PHP, PostgreSQL, Docker e Git" />
+</p>
 
-**Frontend**  
-`React` · `TypeScript` · `JavaScript` · `Blazor` · `HTML` · `CSS`
+**Backend e APIs:** C# · .NET / ASP.NET Core · Java / Spring Boot · Node.js · APIs REST  
+**Frontend:** React · TypeScript · JavaScript · Blazor · HTML · CSS  
+**Sites e CMS:** WordPress · Elementor · WooCommerce · PHP  
+**Dados e infraestrutura:** SQL Server · PostgreSQL · Docker · Git · Deploy
 
-**Sites e CMS**  
-`WordPress` · `Elementor` · `WooCommerce` · `PHP`
-
-**Dados e infraestrutura**  
-`SQL Server` · `PostgreSQL` · `Docker` · `Git` · `Deploy`
+<sub>Ícones de tecnologias utilizadas. Eles não representam percentuais de domínio ou tempo programado.</sub>
 
 ## Meu processo de trabalho
 
