@@ -29,12 +29,14 @@ Trabalho do frontend ao backend, passando por APIs, bancos de dados, integraçõ
 
 Alguns trabalhos comerciais são apresentados sem identificar clientes ou divulgar código proprietário. O objetivo é mostrar o tipo de problema que resolvo e as tecnologias que aplico.
 
-| Case | O que foi desenvolvido | Detalhes |
-| --- | --- | --- |
-| **Catálogo digital personalizado** | Experiência de catálogo e administração própria em WordPress e WooCommerce. | [Ver case](cases/catalogo-digital.md) |
-| **Portal editorial headless** | Portal React integrado a WordPress por API, com recursos de publicação de conteúdo. | [Ver case](cases/portal-editorial.md) |
-| **Plataforma de gestão de conteúdo** | Funcionalidades WordPress sob medida para administrar conteúdos, páginas e acessos. | [Ver case](cases/gestao-de-conteudo.md) |
-| **CidadeEmDia** | Aplicação full stack com React, ASP.NET Core, PostgreSQL e Docker. | [Ver case](cases/cidade-em-dia.md) |
+| Projeto | Solução desenvolvida |
+| --- | --- |
+| **Catálogo digital personalizado** | Experiência de catálogo e administração própria em WordPress e WooCommerce. |
+| **Portal editorial headless** | Portal React integrado a WordPress por API, com recursos de publicação de conteúdo. |
+| **Plataforma de gestão de conteúdo** | Funcionalidades WordPress sob medida para administrar conteúdos, páginas e acessos. |
+| **Aplicação full stack** | Projeto com React, ASP.NET Core, PostgreSQL e Docker. |
+
+*Mais detalhes dos projetos podem ser apresentados durante uma conversa, respeitando a confidencialidade de cada cliente.*
 
 ## Tecnologias
 
